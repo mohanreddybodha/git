@@ -1,4 +1,3 @@
 file1
 update1
-updated2
-
+update2
